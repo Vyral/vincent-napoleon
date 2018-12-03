@@ -13,7 +13,7 @@ pullquote: >-
   people looking for second homes and investment homes can rejoice.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/11-26-market-update-yt-1.jpg
 youtube_code: Mq_cbGVh_1U
 ---
