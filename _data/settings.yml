@@ -17,7 +17,9 @@ client:
   about_markdown: |
     Vincent has been a full-time resident of Naples, Florida for over 30 years. As a real estate investor and professional, Vincent has an extensive background in marketing, finance, and real estate. He uses all these skills to provide world-class service, encompassing all past and present knowledge sets for the benefit of his clients.
 
-  brand: Napoleon Luxury Real Estate
+    Kimberly takes great joy in sharing her intimate knowledge and valued perspective into the Greater Naples real estate market. Specializing in Residential, Luxury, Condominium and Waterfront Properties and Golf Communities; Kimberly truly loves to provide each client with individual attention, enthusiasm, and insightful awareness into the rich and charming character that the coastal lifestyle has to offer! Kimberly excels at providing insightful, comprehensive guidance and marketing applications that produce results. Regardless of the time and effort it takes, her sole focus is on her client’s ultimate goal of purchasing a home that they will cherish for years.
+
+  brand: Luxury Real Estate by Kimberly & Vincent
   brokerage: Compass
   market: Naples
   address: '1400 Gulf Shore Blvd. N Suite #106<br>Naples, FL 34102'
@@ -86,7 +88,7 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 60
+  logo_width_number: 40
   hero_text: Naples Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
