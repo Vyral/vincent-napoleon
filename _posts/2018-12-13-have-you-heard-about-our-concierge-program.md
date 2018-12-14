@@ -9,7 +9,7 @@ excerpt: >-
   it works.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Vincent+Napoleon/Naples+Real+Estate+Agent+%257C+Have+You+Heard+About+Our+Concierge+Program%253F.mp4
-pullquote:
+
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
