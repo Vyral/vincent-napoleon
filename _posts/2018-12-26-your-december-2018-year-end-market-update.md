@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your December 2018 Year-End Market Update
-date:
+date: 2018-12-26 16:12:07
 tags:
   - Market Update
 excerpt: >-
