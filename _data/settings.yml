@@ -22,13 +22,13 @@ client:
   brand: Luxury Real Estate by Kimberly & Vincent
   brokerage: Compass
   market: Naples
-  address: '1400 Gulf Shore Blvd. N Suite #106<br>Naples, FL 34102'
+  address: '4501 Tamiami Trail N<br>Naples, FL 34102'
   phone: 239-398-6336
   phone_type:
   phone2:
   phone2_type:
   email: vincent.napoleon@gmail.com
-  url: http://www.NapoleonLuxuryRealEstate.com
+  url: http://www.ournaplesflorida.com
 
 CTAs:
   first_CTA_text: Home Valuation
