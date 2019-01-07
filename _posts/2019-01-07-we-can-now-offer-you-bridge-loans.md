@@ -19,9 +19,9 @@ youtube_code: BhhSGoOAVvs
 
 {% include youtube.html %}
 
-Our company has just begun the bridge loan program—a one-of-a-kind offering and an entirely new and unique service in the real estate industry. If you know anything about financial markets, you know bridge loans are difficult to acquire and are offered by few.
+Our company has just begun the **bridge loan program**—a one-of-a-kind offering and an entirely new and unique service in the real estate industry. If you know anything about financial markets, **you know bridge loans are difficult to acquire and are offered by few.**
 
-If you want to buy a new home and have a home to sell, a bridge loan allows you to purchase the home before selling. Once you move out, we can then take care of the sale. And because we’re using a bridge loan, we have a concierge program we can institute. We take any upfront costs off your hands, covering the painting, cleaning, landscaping, staging, and much more.
+If you want to buy a new home and have a home to sell, a bridge loan allows you to purchase the home before selling. Once you move out, we can then take care of the sale. And because we’re using a bridge loan, we have a concierge program we can institute. We take any upfront costs off your hands, covering **the painting, cleaning, landscaping, staging, and much more.**
 
 {% include pullquote.html %}
 
