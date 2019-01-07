@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Can Now Offer You Bridge Loans
-date:
+date: 2019-01-07 16:41:24
 tags:
   - Real Estate
 excerpt: >-
