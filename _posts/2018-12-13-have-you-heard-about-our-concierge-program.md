@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Have You Heard About Our Concierge Program?
-date: 2018-12-13 22:31:41
+date: 2018-12-13 22:31:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -9,12 +9,11 @@ excerpt: >-
   it works.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Vincent+Napoleon/Naples+Real+Estate+Agent+%257C+Have+You+Heard+About+Our+Concierge+Program%253F.mp4
-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/12-13-concierge-yt.jpg
-youtube_code: VRNnYVhcHmY
+youtube_alternate_image: /uploads/sddefault-1.jpg
+youtube_code: R3jK_StYqac
 ---
 
 {% include youtube.html %}
