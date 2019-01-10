@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We Can Now Offer You Bridge Loans
-date: 2019-01-07 16:41:24
+date: 2019-01-07 16:41:00
 tags:
   - Real Estate
 excerpt: >-
@@ -13,8 +13,8 @@ pullquote: A bridge loan allows you to purchase the home before selling.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/1-7-bridge-loan-yt.jpg
-youtube_code: BhhSGoOAVvs
+youtube_alternate_image: /uploads/sddefault-3.jpg
+youtube_code: 0geu3Fj4xtw
 ---
 
 {% include youtube.html %}
