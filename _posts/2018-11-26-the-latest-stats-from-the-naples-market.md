@@ -14,8 +14,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/11-26-market-update-yt-1.jpg
-youtube_code: Mq_cbGVh_1U
+youtube_alternate_image: /uploads/sddefault.jpg
+youtube_code: qkTL4-JFV5o
 ---
 
 {% include youtube.html %}
