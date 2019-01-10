@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your December 2018 Year-End Market Update
-date: 2018-12-26 16:12:07
+date: 2018-12-26 16:12:00
 tags:
   - Market Update
 excerpt: >-
@@ -14,8 +14,8 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/12-21-market-update-yt.jpg
-youtube_code: mY7S-6_coPM
+youtube_alternate_image: /uploads/sddefault-2.jpg
+youtube_code: JMHwj8QmSbM
 ---
 
 {% include youtube.html %}
