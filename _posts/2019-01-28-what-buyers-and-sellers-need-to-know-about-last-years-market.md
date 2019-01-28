@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Buyers and Sellers Need to Know About Last Year’s Market
-date:
+date: 2019-01-28 18:55:33
 tags:
   - Market Update
   - Real Estate
