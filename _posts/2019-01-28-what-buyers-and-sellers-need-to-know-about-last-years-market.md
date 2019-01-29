@@ -44,4 +44,6 @@ youtube_code: ReqLxPPW4N0
 
 7:50 - How past and present market conditions will impact local buyers and sellers
 
+If you have any other questions, would like more information, or would like us to send you a hard copy of the statistics we discussed today, feel free to give us a call or send us an email. We look forward to hearing from you soon.
+
 {% include pullquote.html %}
