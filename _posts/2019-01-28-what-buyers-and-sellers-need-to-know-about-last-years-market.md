@@ -26,17 +26,17 @@ youtube_code: ReqLxPPW4N0
 
 0:25 - An introduction to today’s topic
 
-0:40 - Examining total sales for 2018 vs 2017
+0:40 - Examining total sales for 2018 versus 2017
 
-1:13 - Examining total pending sales and closed sales for 2018 vs 2017
+1:13 - Examining total pending sales and closed sales for 2018 versus 2017
 
-1:31 - Examining the inventory and average days on market for 2018 vs 2017
+1:31 - Examining the inventory and average days on market for 2018 versus 2017
 
-2:59 - Examining the change in beach property sales from 2018 vs 2017<br>&nbsp;
+2:59 - Examining the change in beach property sales from 2018 versus 2017<br>&nbsp;
 
-3:53 - Examining the change in single-family home inventory and sales from 2018 vs 2017
+3:53 - Examining the change in single-family home inventory and sales from 2018 versus 2017
 
-4:36 - Examining the change in condo inventory and sales from 2018 vs 2017
+4:36 - Examining the change in condo inventory and sales from 2018 versus 2017
 
 5:55 - Discussing the market’s overall stability
 
@@ -45,5 +45,3 @@ youtube_code: ReqLxPPW4N0
 7:50 - How past and present market conditions will impact local buyers and sellers
 
 If you have any other questions, would like more information, or would like us to send you a hard copy of the statistics we discussed today, feel free to give us a call or send us an email. We look forward to hearing from you soon.
-
-{% include pullquote.html %}
