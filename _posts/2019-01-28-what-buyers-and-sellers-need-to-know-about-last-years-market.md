@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/1-25-market-report-yt.jpg
-youtube_code: F7ldy_nJLgA
+youtube_code: NY_6k6AdzKo
 ---
 
 {% include youtube.html %}
