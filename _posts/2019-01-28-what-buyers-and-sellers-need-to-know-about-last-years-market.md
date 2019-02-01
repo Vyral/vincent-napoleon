@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Buyers and Sellers Need to Know About Last Year’s Market
-date: 2019-01-28 18:55:33
+date: 2019-01-28 18:55:00
 tags:
   - Market Update
   - Real Estate
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/1-25-market-report-yt.jpg
-youtube_code: ReqLxPPW4N0
+youtube_code: F7ldy_nJLgA
 ---
 
 {% include youtube.html %}
@@ -32,7 +32,7 @@ youtube_code: ReqLxPPW4N0
 
 1:31 - Examining the inventory and average days on market for 2018 versus 2017
 
-2:59 - Examining the change in beach property sales from 2018 versus 2017<br>&nbsp;
+2:59 - Examining the change in beach property sales from 2018 versus 2017<br> 
 
 3:53 - Examining the change in single-family home inventory and sales from 2018 versus 2017
 
