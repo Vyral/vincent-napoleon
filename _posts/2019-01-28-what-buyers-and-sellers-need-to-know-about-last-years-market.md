@@ -32,7 +32,7 @@ youtube_code: NY_6k6AdzKo
 
 1:31 - Examining the inventory and average days on market for 2018 versus 2017
 
-2:59 - Examining the change in beach property sales from 2018 versus 2017<br> 
+2:59 - Examining the change in beach property sales from 2018 versus 2017
 
 3:53 - Examining the change in single-family home inventory and sales from 2018 versus 2017
 
