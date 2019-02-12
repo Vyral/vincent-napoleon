@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Welcome to My New Series: Domiciles in the State of Florida'
-date: 2019-02-12 17:41:36
+date: 2019-02-12 17:41:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,8 +14,8 @@ pullquote: >-
   these false perceptions about domiciles in Florida.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/2-11-domicile-yt.jpg
 youtube_code: ihoSEJpq43U
 ---
 
