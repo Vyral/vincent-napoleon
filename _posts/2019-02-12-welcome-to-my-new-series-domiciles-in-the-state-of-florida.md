@@ -44,4 +44,4 @@ Other questions and misconceptions regarding buying or selling a home in Florida
 
 I highly encourage you to stay tuned throughout this series, since we’ll go through each topic in detail, some of which will include insight from guest speakers like estate attorneys and lenders.
 
-If you have any questions in the meantime, or if you’d like a free copy or PDF of my book, “[TITLE UNSTATED BY CLIENT]”, feel free to reach out to me directly. I’d love to send you a copy.
+If you have any questions in the meantime, or if you’d like a free copy or PDF of my book, feel free to reach out to me directly. I’d love to send you a copy.
