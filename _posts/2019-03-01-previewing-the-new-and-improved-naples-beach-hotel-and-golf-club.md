@@ -29,7 +29,7 @@ Just because we’re in real estate doesn’t mean we’re pro-growth, but we’
 
 {% include pullquote.html %}
 
-This resort has been here for a long time, and when you’re facing a beach, some wear and tear is inevitable. As of now, there are 319 units, but The Athens Group plans on reducing that to 220, and their new condos will face both the beach side and the golfing side of the hotel. This reduction means the hotel will be a high-end luxury player. We don’t know who this player is yet, but we think it will be a Four Seasons. **Along with restoring the hotel, they plan on preserving the golf course in perpetuity.**
+This resort has been here for a long time, and when you’re facing a beach, some wear and tear is inevitable. As of now, there are 319 units, but The Athens Group plans on reducing that to 220, and their new condos will face both the beach side and the golfing side of the hotel. This reduction means that the hotel will be bought by a high-end luxury player. We don’t know who this player is yet, but we think it will be a Four Seasons. **Along with restoring the hotel, they plan on preserving the golf course in perpetuity.**
 
 We’ve spoken to representatives from The Athens Group, and they’re only asking for a couple of building variances, one of which is an 11-foot variance for the ceilings in the condos facing the beach, which we also approve of. One the first floor, they’re building a bowling alley, a kid’s center, and tons of other family-friendly recreational areas.&nbsp;
 
