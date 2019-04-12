@@ -21,7 +21,7 @@ Aqualane Shores is in the process of voting for the addition of two great new ut
 
 **Altogether, the cost would amount to around $1.1 million;** however, the internet and gas companies have agreed to pay for almost all of the costs. In the end, our cost will only be about $300,000.
 
-This breaks down to $2,693 per single-family home. You can make a one-time payment or have the city of Naples spread it out through your tax bills over four years. If you have a condo, it’d be about $883 altogether. If you have gas already and would just be paying for internet, it’d be $633. If the vote goes through, they’ll be able to start building by fall.
+This breaks down to $2,693 per single-family home. You can make a one-time payment or have the city of Naples spread it out through your tax bills over four years. If you have a condo, it’d be about $883 altogether. If you have gas already and would just be paying for internet, it’d be $633. **If the vote goes through, they’ll be able to start building by fall.**
 
 {% include pullquote.html %}
 
