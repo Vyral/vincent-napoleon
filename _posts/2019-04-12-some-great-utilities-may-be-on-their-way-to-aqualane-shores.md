@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-12-aqualane-shores-yt.jpg
-youtube_code: takrvsfG-yg
+youtube_code: FpnLH1hyvns
 ---
 
 {% include youtube.html %}
