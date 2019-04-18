@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-12-aqualane-shores-yt.jpg
-youtube_code: ADVUuqGtI24
+youtube_code: takrvsfG-yg
 ---
 
 {% include youtube.html %}
@@ -25,6 +25,6 @@ This breaks down to $2,693 per single-family home. You can make a one-time payme
 
 {% include pullquote.html %}
 
-These developments would help incredibly when it comes to resale value, and they would give the community a huge boost. If you haven’t already voted for these upgrades, we urge you to do so. **They’ll be very beneficial to you as a homeowner both now and in the future.**
+These developments would help incredibly when it comes to resale value, and they would give the community a huge boost.&nbsp;**They’ll be very beneficial to you as a homeowner both now and in the future.&nbsp;**Naples Council is going through an extensive approval process that we are hoping to be completed by Christmas.&nbsp;
 
 If you have any questions or would like more information, feel free to reach out to us. We look forward to hearing from you soon.
