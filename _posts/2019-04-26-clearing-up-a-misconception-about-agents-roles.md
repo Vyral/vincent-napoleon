@@ -16,20 +16,20 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/4-26-myth-yt.jpg
-youtube_code: U6R9NEYy2js
+youtube_code: CTtGCi3uT-g
 ---
 
 {% include youtube.html %}
 
 When a buyer is interested in a home, they sometimes think that they’ll only have to deal with the agent who is responsible for that listing. We receive calls all the time from clients who only want to speak with the listing agent.
 
-**In general, buyers need to be better educated about what each agent’s role in their transaction will be.** A buyer’s agent is one who works for the buyer, but who gets paid by the seller.&nbsp;
+**In general, buyers need to be better educated about what each agent’s role in their transaction will be.** A buyer’s agent is one who works for the buyer, but who gets paid by the seller. 
 
 When we take a listing, we’re representing the seller’s interest. Our job for them is to get them the highest possible price in the shortest amount of time. But as a buyer’s agent, our job would be to fight to get you the best price, terms, and conditions. Listing agents can’t, therefore, fill both roles.
 
 {% include pullquote.html %}
 
-Agents on either side of a transaction have a somewhat adversarial relationship with each other. That’s why we negotiate separately.&nbsp;
+Agents on either side of a transaction have a somewhat adversarial relationship with each other. That’s why we negotiate separately. 
 
 So **if you’re on the internet to shop for homes, reach out to us.** Let us represent you as the buyer, because our job is to get you the lowest possible price, make sure you’re getting the correct inspections, and more. You’ll want to speak with someone who is removed from the listing agent, since their job is to represent only the best interests of the seller.
 
