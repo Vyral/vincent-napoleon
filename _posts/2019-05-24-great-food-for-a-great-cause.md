@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Great Food for a Great Cause
-date:
+date: 2019-05-24 21:23:36
 tags:
   - Market Update
 excerpt: >-
