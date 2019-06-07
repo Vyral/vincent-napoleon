@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Check Out This Great Listing We Just Put Under Contract
-date: 2019-06-07 18:15:42
+date: 2019-06-07 18:15:00
 tags:
   - Real Estate
 excerpt: >-
@@ -12,8 +12,8 @@ enclosure: >-
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/6-6-crayton-rd-email.jpg
 youtube_code: CtvxNUJAZUE
 ---
 
