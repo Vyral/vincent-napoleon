@@ -27,7 +27,7 @@ Before we do that, though, we’d like to remind you that even if you’re looki
 
 {% include pullquote.html %}
 
-With that said, let’s delve deeper into what the concierge program is and how it can benefit you. In short, **our concierge program lets you easily prepare your home for sale by fronting the cost of home improvement services like staging, painting and more.** The best part is that there are no hidden costs or fees. We simply take what you owe out of your closing costs at the end of the deal.&nbsp;
+With that said, let’s delve deeper into what the concierge program is and how it can benefit you. In short, **our concierge program lets you easily prepare your home for sale by fronting the cost of home improvement services like staging, painting, and more.** The best part is that there are no hidden costs or fees. We simply take what you owe out of your closing costs at the end of the deal.&nbsp;
 
 There’s no real limit to the amount we can spend or the scale of the project we can take on. We can even go so far as to fully furnish a property, as we did recently in the case of one of the new construction homes we’re selling. Whether it’s remodeling, landscaping, upgrading, furnishing, or anything else, we’re happy to take care of any home improvement that will help you sell quickly and for more money.&nbsp;
 
