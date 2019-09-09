@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mayor Bill Barnett Joins Us for an Exclusive Interview
-date: 2019-09-09 15:09:40
+date: 2019-09-09 15:09:00
 tags:
   - Real Estate
 excerpt: >-
@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: uSQeyRUkcsg
+youtube_code: W52Ht3rqrrc
 ---
 
 {% include youtube.html %}
