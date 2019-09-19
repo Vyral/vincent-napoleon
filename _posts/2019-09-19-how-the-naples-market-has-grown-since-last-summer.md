@@ -19,7 +19,7 @@ youtube_code: 3RiD0VRwZSM
 
 {% include youtube.html %}
 
-Today let’s take a look at how the Naples-area market has changed since last year.
+<p style="text-align:center><em>Today let’s take a look at how the Naples-area market has changed since last year.</em></p>
 
 In today’s market report for the summer of 2019, we first want to clear up the misconception that summer is a slow time for the Naples market. People tend to believe that nobody buys in the summer and that you can only list your house in the winter months because that’s when everybody is here, but that’s just not true.
 
