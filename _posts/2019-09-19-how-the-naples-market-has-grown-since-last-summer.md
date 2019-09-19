@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How the Naples Market Has Grown Since Last Summer
-date:
+date: 2019-09-19 20:51:41
 tags:
   - Market Update
 excerpt: >-
