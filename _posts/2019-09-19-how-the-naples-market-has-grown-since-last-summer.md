@@ -39,6 +39,6 @@ The median sale price for condos in the Naples Beach area increased by 27%, goin
 
 In July 2018, we had a total of 774 home sales; this year, however, we had 829 sales, which is a 7.1% increase year over year. On a related note, single-family closed sales increased by 14.5% year over year, but closed condo sales remained flat at 394 both this and last July.
 
-So overall, our market is really on an upswing. For the most part, pricing really hasn’t changed much except for the high-end condo segment mentioned earlier. Single-family home sales have either remained steady or have gone up, and because of limitations on the amount of land available, many are knocking down old homes and building new ones in their place. **We’re looking forward to a great September market**, which is typically the slowest month we experience, but we’ve already got a few closings up coming up for the month.
+So overall, our market is really on an upswing. For the most part, pricing really hasn’t changed much except for the high-end condo segment mentioned earlier. Single-family home sales have either remained steady or have gone up, and because of limitations on the amount of land available, many are knocking down old homes and building new ones in their place. **We’re looking forward to a great September market**, which is typically the slowest month we experience, but we’ve already got a few closings coming up for the month.
 
 If you’re looking to buy or sell in the Naples area, don’t hesitate to reach out to us. We hope to hear from you soon\!
