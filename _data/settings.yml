@@ -74,7 +74,7 @@ socials:
   zillow_url:
   trulia_url:
   yelp_url:
-  podcast_url:
+  podcast_url: https://podcasts.apple.com/us/podcast/naples-real-estate-podcast-with-vincent-napoleon/id1481101664
 
 podcast:
   title: 'Naples Real Estate Podcast with Vincent Napoleon'
