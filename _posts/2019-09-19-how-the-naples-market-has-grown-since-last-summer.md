@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/summeryt.jpg
-youtube_code: tVIF7gx9sdc
+youtube_code: jtXmqIG_DyE
 ---
 
 {% include youtube.html %}
