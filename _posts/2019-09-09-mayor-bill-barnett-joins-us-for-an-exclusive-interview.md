@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/vincent-nepoleon-fun-while-vincent-is-away-youtube.jpg
 youtube_code: W52Ht3rqrrc
 ---
 
