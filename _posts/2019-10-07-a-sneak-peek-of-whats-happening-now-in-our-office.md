@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Sneak Peek of What’s Happening Now in Our Office
-date: 2019-10-07 16:11:19
+date: 2019-10-07 16:11:00
 tags:
   - Real Estate
 excerpt: >-
