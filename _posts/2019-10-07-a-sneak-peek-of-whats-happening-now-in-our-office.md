@@ -19,6 +19,6 @@ youtube_code: bzuascWJ3ek
 
 {% include youtube.html %}
 
-What has our team been doing while Vincent is away? See for yourself with this message.
+<p style="text-align:center;"><em>What has our team been doing while Vincent is away? See for yourself with this message.</em></p>
 
 Vincent is away right now on a motorcycle trip; and as the saying goes, “While the cat is away, the mice will play.” Our team works hard and plays hard, and so we wanted to take this opportunity to show you what goes on behind-the-scenes at our office. Simply put: There’s never a dull moment around here, but you’ll see what we mean when you check out today’s message. Of course, we always have time for you. So if you ever have any questions about real estate or would like more information about how we can help you meet your goals, feel free to give us a call or send us an email. We look forward to hearing from you soon.
