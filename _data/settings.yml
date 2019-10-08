@@ -32,23 +32,23 @@ client:
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.napoleonluxuryrealestate.com/form-cma.php
+  first_CTA_URL: http://www.ournaplesflorida.com/cma/property-valuation/
   second_CTA_text: Home Search
-  second_CTA_URL: http://napoleonluxuryrealestate.idxbroker.com/idx/search/advanced
+  second_CTA_URL: http://www.ournaplesflorida.com/search/advanced_search/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/001.jpg
     CTA_title: "What’s Your Naples Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.napoleonluxuryrealestate.com/form-cma.php
+    CTA_url: http://www.ournaplesflorida.com/cma/property-valuation/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/002.jpg
     CTA_title2: "Looking for a Naples Home?"
     CTA_text2: "Search the entire MLS for your Naples home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: http://napoleonluxuryrealestate.idxbroker.com/idx/search/advanced
+    CTA_url2: http://www.ournaplesflorida.com/search/advanced_search/
 
 lender:
   show_section: false
