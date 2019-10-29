@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is a Bridge Loan?
-date:
+date: 2019-10-29 20:39:07
 tags:
   - Home Seller Tips
 excerpt: >-
