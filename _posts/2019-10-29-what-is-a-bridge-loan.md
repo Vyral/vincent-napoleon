@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is a Bridge Loan?
-date: 2019-10-29 20:39:07
+date: 2019-10-29 20:39:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -12,14 +12,14 @@ enclosure: >-
 pullquote: We have some incredible programs that no other real estate companies offer.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/vincent-nepoleon-what-is-a-bridge-loan-youtube.jpg
 youtube_code: vGC2YV9E5V4
 ---
 
 {% include youtube.html %}
 
-<p style="text-align:center;"><em>Today we’re going to discuss bridge loans, a wonderful program that Compass just launched recently</em></p>
+*Today we’re going to discuss bridge loans, a wonderful program that Compass just launched recently*
 
 We are not lenders—we are Compass, a nationwide real estate company. We’re currently valued at around $6 billion and we’re debt-free. Because of that, we have some incredible programs that no other real estate companies offer, including bridge loans.
 
