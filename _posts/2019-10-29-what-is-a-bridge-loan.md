@@ -19,7 +19,7 @@ youtube_code: vGC2YV9E5V4
 
 {% include youtube.html %}
 
-Today we’re going to discuss bridge loans, a wonderful program that Compass just launched recently.
+<p style="text-align:center;"><em>Today we’re going to discuss bridge loans, a wonderful program that Compass just launched recently</em></p>
 
 We are not lenders—we are Compass, a nationwide real estate company. We’re currently valued at around $6 billion and we’re debt-free. Because of that, we have some incredible programs that no other real estate companies offer, including bridge loans.
 
