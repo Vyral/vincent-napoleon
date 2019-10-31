@@ -19,7 +19,7 @@ youtube_code: vGC2YV9E5V4
 
 {% include youtube.html %}
 
-*Today we’re going to discuss bridge loans, a wonderful program that Compass just launched recently*
+<p style="text-align:center;"><em>Today we’re going to discuss bridge loans, a wonderful program that Compass just launched recently.</em></p>
 
 We are not lenders—we are Compass, a nationwide real estate company. We’re currently valued at around $6 billion and we’re debt-free. Because of that, we have some incredible programs that no other real estate companies offer, including bridge loans.
 
@@ -29,9 +29,9 @@ Our new program has launched nationwide. It’s wonderful because many investors
 
 {% include pullquote.html %}
 
-Currently, **inventory across the country is down,** nationwide more listings are needed. We’re heading into a seller’s market, and in that market, you’ve got to act hastily, be the first one with an offer, and this bridge loan allows you to be aggressive.&nbsp;
+Currently, **inventory across the country is down,** and more listings are needed nationwide. We’re heading into a seller’s market, and in that market, you’ve got to act hastily and be the first one with an offer, and this bridge loan allows you to be aggressive.&nbsp;
 
-We have vetted many different lenders so that when someone’s interested in the program we can present them with a group of lenders that they can choose from to work with. You can work with whoever you want, but not everyone does bridge loans. Like any other loan, you have to apply, have a decent credit score, much of it will be based on the equity of the home you want to sell and the one you’re moving into. This is a great opportunity\!
+We have vetted many different lenders so that when someone’s interested in the program we can present them with a group of lenders that they can choose from to work with. You can work with whoever you want, but not everyone does bridge loans. Like any other loan, you have to apply for it and have a decent credit score, much of it will depend on the equity of the home you want to sell and the one you’re moving into. This is a great opportunity\!
 
 **Interest rates are historically low,** it looks as though there’s going to be other rate cuts coming soon, and 2020 is an election year, so various things are happening. All the more reason a bridge loan makes sense\!&nbsp;
 
