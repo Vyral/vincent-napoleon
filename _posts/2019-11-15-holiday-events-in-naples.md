@@ -19,7 +19,7 @@ youtube_code: trNqzs7j7bQ
 
 {% include youtube.html %}
 
-Today we’re sharing some upcoming seasonal events in Naples that you won’t want to miss\!
+<p style="text-align:center;"><em>Today we’re sharing some upcoming seasonal events in Naples that you won’t want to miss\!</em></p>
 
 The holidays are approaching, so we wanted to share some events happening in Naples this season. Also, welcome back all of you who leave in the summer and come back in the winter—we’re happy to have you\!
 
