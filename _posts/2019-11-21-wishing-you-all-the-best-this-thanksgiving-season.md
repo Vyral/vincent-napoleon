@@ -20,7 +20,7 @@ youtube_code: 8-houXnLc54
 
 {% include youtube.html %}
 
-Thanksgiving is here and we wanted to let you know how grateful we are for you and your support this year and every year.
+<p style="text-align:center;"><em>Thanksgiving is here and we wanted to let you know how grateful we are for you and your support this year and every year.</em></p>
 
 It’s the Thanksgiving season here in Naples and we’re so thankful to be here this year as a team. We’re also very thankful to you for your support for our business. We’ve had an amazing year and it’s all thanks to you. We hope you all have a fantastic Thanksgiving with friends and family. To hear our full message of thanks, watch this short video.
 
