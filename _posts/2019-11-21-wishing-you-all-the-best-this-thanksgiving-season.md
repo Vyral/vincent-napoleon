@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Wishing You All the Best This Thanksgiving Season
-date: 2019-11-21 00:22:07
+date: 2019-11-21 00:00:00
 tags:
   - Real Estate
 excerpt: >-
