@@ -24,4 +24,3 @@ youtube_code: 8-houXnLc54
 
 It’s the Thanksgiving season here in Naples and we’re so thankful to be here this year as a team. We’re also very thankful to you for your support for our business. We’ve had an amazing year and it’s all thanks to you. We hope you all have a fantastic Thanksgiving with friends and family. To hear our full message of thanks, watch this short video.
 
-&nbsp;
