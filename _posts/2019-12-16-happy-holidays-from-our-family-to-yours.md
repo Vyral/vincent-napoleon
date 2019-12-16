@@ -19,6 +19,6 @@ youtube_code: 7BL9MG570DU
 
 {% include youtube.html %}
 
-The holidays are here and we wanted to give you and your family our best. Here’s our message.
+<p style="text-align: center;"><em>The holidays are here and we wanted to give you and your family our best. Here’s our message.</em></p>
 
 Today we’re greeting you on a very balmy mid-November Day at Metta Terra, one of the preeminent golf clubs in Naples. Christmas is coming, and we wanted to wish you all the happiest of holiday seasons this year. If you’re planning a trip down here anytime soon, reach out because we’d love to see you. We’ll even get you a free round of golf (on Kimberly, of course). To hear our full holiday message, watch this short video.
